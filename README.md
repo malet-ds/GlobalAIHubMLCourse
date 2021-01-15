@@ -7,7 +7,7 @@
 **Surname:** Malet Quintar
 **Email:** nmalet12@gmail.com
 
-## Project Name
+## Project: Wine Quality classification
 
 Description...
 
@@ -22,4 +22,4 @@ Python Libraries
 
 ### Certification
 
-![Certification will be shown once delivered](img/certificate.png)
+![Top Learner Certification](img/top_learner.png)
